@@ -1,10 +1,13 @@
-****** Note:** Any one who wants to run this project need to setup their locan machine ** ****
+**Note:** To run this project, users must set up their local environment with the necessary configurations and dependencies. Please follow the steps provided below to ensure the proper setup.
 
-**** Pre-requisites ****
+**Pre-requisites:**
 
-1. JAVA (Java 17 used for this project)
-2. Intellij/ eclipse IDE (Intellij Ulimate/ CE edition any thing works fine)
-3. Maven should install and configure in local machine
+Before running this project, ensure the following tools and dependencies are set up on your local machine:
+
+1. Java (Java 17 is used for this project)
+2. IDE: IntelliJ IDEA (Ultimate or Community Edition) or Eclipse
+3. Maven: Ensure that Maven is installed and properly configured on your machine
+
 
 **** Required dependencies added in pom.xml file ****
 
@@ -74,22 +77,23 @@
   </dependencies>
 
 
-****  How to run the project ****
+**How to Run the Project**
 
-After setting up your local machine properly use mvn test command as mentioned below 
+After setting up your local environment, follow these steps to run the project:
 
-** command to run this project **
-1. From Intellij terminal we can run using the below command
-      mvn test --> it will run the tests from weather-geolocation-api.xml file (note: this is testng.xml file i have renamed it)
-   
-         (or)
-   
-2. from the /src/test/tests folder we can run the GeolocationTests.java class
+Running the Tests
+**** From the IntelliJ Terminal: ****
+Use the following command to run the tests:
+mvn test
+This will execute the tests defined in the weather-geolocation-api.xml file (Note: This is a testng.xml file that has been renamed).
 
+Alternatively, From the /src/test/tests Folder:
+You can also run the GeolocationTests.java class directly from this folder.
 
-Note: For my successful runs i have pushed the reports in the repo
+**Additional Notes**
 
-1. extent reports used in this project to see the execution results. Kindly run any one if the xml files to see the reports from reports folder
+For successful execution, I have already pushed the reports to the repository. You can review the reports located in the reports folder.
+Extent Reports are used in this project to visualize the test execution results. Please run any of the XML files to generate the reports.
 
 
 

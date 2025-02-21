@@ -1,6 +1,6 @@
 **Note:** To run this project, users must set up their local environment with the necessary configurations and dependencies. Please follow the steps provided below to ensure the proper setup.
 
-** Note ** : I have hardcoded the data (city, state code, zip code) in the tests for the assignment purpose.
+**** Note ** : I have hardcoded the data (city, state code, zip code) in the tests for the assignment purpose.**
 
 **Pre-requisites:**
 

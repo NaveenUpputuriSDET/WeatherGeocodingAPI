@@ -89,7 +89,7 @@ After setting up your local machine properly use mvn test command as mentioned b
 
 Note: For my successful runs i have pushed the reports in the repo
 
-1. extent reports used in this project to see the execution results. Kindly run any one if the xml files to see the reports
+1. extent reports used in this project to see the execution results. Kindly run any one if the xml files to see the reports from reports folder
 
 
 

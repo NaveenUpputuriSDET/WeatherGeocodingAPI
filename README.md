@@ -92,8 +92,9 @@ You can also run the GeolocationTests.java class directly from this folder.
 
 **Additional Notes**
 
-For successful execution, I have already pushed the reports to the repository. You can review the reports located in the reports folder.
-Extent Reports are used in this project to visualize the test execution results. Please run any of the XML files to generate the reports.
+1. For successful execution, I have already pushed the reports to the repository. You can review the reports located in the reports folder.
+   
+2. Extent Reports are used in this project to visualize the test execution results. Please run any of the XML files to generate the reports.
 
 
 

@@ -1,11 +1,13 @@
-**Note:** Any one who wants to run this project need to setup their locan machine
+****** Note:** Any one who wants to run this project need to setup their locan machine ** ****
 
-**Pre-requisites**
+**** Pre-requisites ****
+
 1. JAVA (Java 17 used for this project)
 2. Intellij/ eclipse IDE (Intellij Ulimate/ CE edition any thing works fine)
 3. Maven should install and configure in local machine
 
-**Required dependencies added in pom.xml file**
+**** Required dependencies added in pom.xml file ****
+
 <dependencies>
     <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
     <dependency>
@@ -71,13 +73,21 @@
 
   </dependencies>
 
-**command to run this project **
+
+****  How to run the project ****
+
+After setting up your local machine properly follow the below use mvn test command as mentioned below 
+
+** command to run this project **
 1. From Intellij terminal we can run using the below command
       mvn test
 2. from the /src/test/tests folder we can run the GeolocationTests.java class
 
 
-Note: For my successful runs i have pushed the reports. 
+Note: For my successful runs i have pushed the reports in the repo
+1. extent reports used in this project to see the execution results. Kindly run any one if the xml files to see the reports
+
+
 
    
    

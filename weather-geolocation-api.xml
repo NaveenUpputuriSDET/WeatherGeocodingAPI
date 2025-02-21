@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="OpenWeatherGeocodingAPI">
+    <test name="GeoLocationTest">
+        <classes>
+            <class name="com.fetch.tests.GeolocationTests">
+            </class>
+        </classes>
+    </test>
+</suite>
